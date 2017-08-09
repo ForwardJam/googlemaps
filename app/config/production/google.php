@@ -11,6 +11,6 @@ return array(
 	|
 	*/
 
-	'api_key' => 'AIzaSyDBsYwcTcMSjU2PYdWJxZgFBgAJT5RTIFY',
+	'api_key' => '',
 
 );
